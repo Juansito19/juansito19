@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Juansito19/juansito19/assets/138678918/704d9f20-d780-4770-b4eb-a195d2fe5b2f" height="600"/>
+  <img src="https://github.com/Juansito19/juansito19/assets/138678918/704d9f20-d780-4770-b4eb-a195d2fe5b2f" height="500"/>
 </p>
 <Br>
 
