@@ -7,14 +7,13 @@
 <h1>About Me!</h1>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
+<br></br>
 - :school: I am a `Developer Junior`.
 - :computer: I am a programmer at `Java Script`.
 - :rocket: Always `learning new things`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :boom: I’m open for a new `job opportunity`.
-<br>
+<br></br>
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
