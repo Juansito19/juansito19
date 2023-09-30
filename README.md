@@ -42,7 +42,8 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=juansito19&show_icons=true&theme=merko)](https://github.com/juansito19/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansito19&layout=compact&theme=merko)](https://github.com/juansito19/github-readme-stats)
+[![Juansito19's github stats](https://github-readme-stats.vercel.app/api?username=Juansito19&show_icons=true&theme=merko)](https://github.com/Juansito19/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juansito19&layout=compact&theme=merko)](https://github.com/Juansito19/github-readme-stats)
 
  
 <Br>
@@ -50,10 +51,7 @@
 
 <Br>
 <h1>Thank You! 🤵 </h1>
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
+</br></br>	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
